@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.name-first-side {
+    color: white
+}
+
+.name-last-side {
+    color: #FF0C60;
+}
+
+h5 {
+    color: #D2B4DE;
+}
+
+h4 {
+    color: white;
+}
+
+.my-img {}
+
+.bio {
+    color: white;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
