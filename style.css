@@ -77,6 +77,7 @@ nav {
     letter-spacing: 1px;
     cursor: pointer;
 
+
 }
 
 .logo-colour {
@@ -168,4 +169,12 @@ nav ul li a:hover {
 #full-stack-dev {
     border-left: 7px solid white;
     box-shadow: 10px 10px 80px #f9004d;
+}
+
+footer p {
+
+    color: #ffffff;
+    text-align: center;
+
+
 }
