@@ -33,6 +33,7 @@ h4 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -112,4 +113,19 @@ nav ul li a:hover {
 
 .btn:hover {
     transform: scale(1.2);
+}
+
+
+.Dream-Big {
+    color: white;
+    size: 25px;
+}
+
+.nd-line {
+    color: white;
+}
+
+.rd-line {
+    color: white;
+
 }
