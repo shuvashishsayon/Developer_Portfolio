@@ -34,6 +34,7 @@ h4 {
 section {
     display: flex;
     margin-bottom: 100px;
+    color: white;
 }
 
 .half-width {
@@ -128,4 +129,43 @@ nav ul li a:hover {
 .rd-line {
     color: white;
 
+}
+
+.my-bio {
+    size: 10px;
+    color: white;
+}
+
+.experience-area {
+    color: white;
+
+
+}
+
+.flexible-container {
+
+    display: flex;
+}
+
+.work {
+    color: white;
+    margin-left: 5%;
+}
+
+.experience-item {
+    width: 40%;
+    padding-left: 4%;
+    padding-top: 6%;
+    box-shadow: 10px 10px 80px white;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5px;
+    border-left: 7px solid #f9004d;
+    text-align: left;
+
+}
+
+#full-stack-dev {
+    border-left: 7px solid white;
+    box-shadow: 10px 10px 80px #f9004d;
 }
