@@ -4,7 +4,8 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 50px;
+
 }
 
 .name-first-side {
@@ -23,7 +24,7 @@ h4 {
     color: white;
 }
 
-.my-img {}
+
 
 .bio {
     color: white;
@@ -35,9 +36,74 @@ section {
 
 .half-width {
     width: 50%;
-    padding-left: 2%;
+    padding-left: 5%;
+    padding-top: 6%;
 }
 
 .half-width img {
+    width: 80%;
+
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: #f9004d;
+    color: white;
+    border-radius: 6px;
+    font-weight: 700;
+}
+
+.hero {
+    height: 70px;
     width: 100%;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 2px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.logo {
+    color: white;
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
+
+}
+
+.logo-colour {
+    color: #f9004d;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+nav ul li a:hover {
+    color: #f9004d;
+}
+
+.btn {
+    background-color: #f9004d;
+    color: white;
+    text-transform: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 30px;
+
 }
